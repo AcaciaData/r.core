@@ -1,5 +1,5 @@
 # r.core
-<body style="background: black;color:lightblue;">
+<div style="background: black;color:lightblue;">
   <h1>Core functionality for Acacia in R language</h1>
 
   <h3>Chapter One IO</h3>
@@ -34,11 +34,11 @@
         <li>dynamic</li>
       </ul>
     <br>
-    <li><strong>searchr</strong></li>
+    <li><strong>search</strong></li>
       <ul>
         <li>key/value</li>
         <li>dynamic</li>
       </ul>
   </ul>
 
-</body>
+</div>
